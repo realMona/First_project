@@ -1,4 +1,4 @@
-# First_project
+# First_project Fashion Blog
 This is my first HTML blog learned from codecademy for HTML.
 Things I learned:
   * Basic HTML tags
